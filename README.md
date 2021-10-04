@@ -27,6 +27,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Fábio-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" alt="Fábio-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
     <img align="center" alt="Fábio-Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1l2_eQjml_A8_ulLn_1gQxRl6YZAMmN0-/view?usp=sharing">
 </div>
   
 ##
