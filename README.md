@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Fábio-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" alt="Fábio-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
     <img align="center" alt="Fábio-Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-    <img align="right" alt="Fábio Gilberto" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1l2_eQjml_A8_ulLn_1gQxRl6YZAMmN0-/view?usp=sharing">
+   
 </div>
   
 ##
@@ -39,7 +39,5 @@ Here are some ideas to get you started:
 
   <a href = "mailto:fabio.drioli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/f%C3%A1bio-gilberto-andrioli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
