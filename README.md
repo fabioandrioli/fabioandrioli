@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <a href="https://github.com/fabioandrioli">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=fabioandrioli&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioandrioli&layout=compact&langs_count=50&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fabioandrioli&show_icons=true&include_all_commits&theme=dark&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioandrioli&layout=compact&langs_count=50&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
